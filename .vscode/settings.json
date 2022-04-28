@@ -1,0 +1,28 @@
+{
+  "god.tsconfig": "./tsconfig.json",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "i18n-ally.localesPaths": ["src/locale"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.keysInUse": [
+    "pricing.recommended",
+    "pricing.products.*",
+    "pricing.features.*",
+    "shared.locales.*",
+    "settings.profile.status.*",
+    "settings.profile.role.*",
+    "app.shared.periods.*",
+    "app.shared.periodicity.*",
+    "app.shared.months.*",
+    "app.shared.bimonthly.*",
+    "app.shared.quarterly.*",
+    "app.shared.yearly.*",
+    "app.shared.colors.*",
+    "api.errors.*"
+  ],
+  "i18n-ally.extract.ignored": ["*"],
+  "i18n-ally.sourceLanguage": "en-US"
+}
