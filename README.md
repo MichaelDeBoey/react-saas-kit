@@ -1,6 +1,6 @@
 ## svelte-react-kit
 
-React SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front pages, Vite
+React SaaS template, TypeScript, Tailwind CSS, Modular persisted store, Meta-tags, i18n, Front/Auth/Admin/App pages, Vite
 
 ![React Codebase](https://yahooder.sirv.com/saasfrontends/oss/react.png)
 
